@@ -1,3 +1,3 @@
 # CV Template
 
-![CV Sample](https://eimaung.com/cv-sample.png)
+![CV Sample](https://eimaung.com/cv-template.png)
